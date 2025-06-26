@@ -22,7 +22,7 @@ No meu caso, eu fiz a solicitação para a minha esposa. No arquivo compactado e
 
 Mesmo não tendo acesso ao Portal das Finanças, é possível acessar o site do e-Balcão e obter várias informações relevantes sobre o assunto. Na página, clique em _Ajuda Online_, no pop-up que será exibido digite "_NIF_" e selecione a opção _Obtenção de NIF - Cidadão de país terceiro_.
 
-Mais detalhes em: [Pedido de NIF On-line para Cidadãos Estrangeiros e Recém-Nascidos.](https://eportugal.gov.pt/noticias/pedido-de-nif-online-para-cidadaos-estrangeiros-e-recem-nascidos)
+Mais detalhes em: [Pedido de NIF On-line para Cidadãos Estrangeiros e Recém-Nascidos.](https://www2.gov.pt/migrantes-viver-e-trabalhar-em-portugal/migrantes-impostos-e-seguranca-social-em-portugal/como-pedir-o-nif-e-o-niss-para-cidadaos-estrangeiros-em-portugal)
 
 \
 
